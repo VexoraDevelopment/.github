@@ -26,11 +26,9 @@ VexoraDevelopment builds high-performance Minecraft: Bedrock server tooling and 
 - Expanding ranked systems and moderation tooling.
 - Improving hub UX, holograms, and cosmetic integrations.
 
-## Repositories
-- [platform](https://github.com/VexoraDevelopment/platform)
-- [domain](https://github.com/VexoraDevelopment/domain)
-- [storage](https://github.com/VexoraDevelopment/storage)
-- [app](https://github.com/VexoraDevelopment/app)
+## Community
+- VK: [vk.com/vexora](https://vk.com/vexora)
+- Telegram: [t.me/vexoratg](https://t.me/vexoratg)
 
 ## Contributing
 We prefer focused PRs with clear scope and reproducible test steps.
