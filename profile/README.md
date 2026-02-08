@@ -14,6 +14,10 @@ VexoraDevelopment builds high-performance Minecraft: Bedrock server tooling and 
 - `domain` - business logic, managers, use-cases.
 - `storage` - persistence layer and data providers.
 
+## Stack
+- Primary stack: **Go (Golang)**.
+- Legacy/prototype modules are sometimes implemented in **PHP**.
+
 ## Engineering principles
 - Predictable module boundaries.
 - Runtime safety first (deadlock avoidance, transaction discipline, watchdogs).
